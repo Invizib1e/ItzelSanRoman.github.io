@@ -1,0 +1,52 @@
+body,*{
+            font-family: 'Newsreader', serif;
+            font-size: 14px;
+            color: grey;
+            margin: 0px;
+            padding: 0px;
+            background-color: #FFF8E1;
+        }
+
+
+        h2{
+            color:salmon;
+            text-decoration: underline;
+        }
+        .otro-encabezado{
+            font-size: 20px;
+            color: blue;
+        }
+
+        .importante{
+            font-size: 25px;
+            color: darkblue;
+        }
+
+        #enc-comentario{
+            font-size: 20px;
+        }
+        #enc-grande{
+            color: #C0CA33;
+            text-decoration: none;
+        }
+        span{
+            font-weight: normal;
+            background-color: lightyellow;
+        }
+        #datos-generales{
+            border: 1px dotted #9999FF;
+            margin: 15px;
+            padding: 10px;
+        }
+        #ingredientes{
+            border: 1px solid #9999FF;
+
+        }
+        table{
+            border: 1px solid #CCCCCC;
+            border-collapse: collapse;
+        }
+        td{
+            border: 1px solid #CCCCCC;
+            padding: 5px;
+        }
